@@ -106,6 +106,7 @@ If you open the app,
 you should be able to see the following.
 
 ![preview](https://user-images.githubusercontent.com/17494745/205381031-2f11e74a-34d2-45de-bc32-bbb9d4bf9401.gif)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F0xV1rus%2Fflutter-todo-list-tutorial.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2F0xV1rus%2Fflutter-todo-list-tutorial?ref=badge_shield)
 
 
 All the tests should also pass.
@@ -1716,3 +1717,7 @@ We are here to help and are happy for your contribution!
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F0xV1rus%2Fflutter-todo-list-tutorial.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2F0xV1rus%2Fflutter-todo-list-tutorial?ref=badge_large)
